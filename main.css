@@ -91,10 +91,12 @@ body {
 }
 .tagline2 {
 	font-size: 1.25em;
+	font-family: "Arial";
 	text-align: center;
 	padding-top: 15px
 	color:#34282C;
 	margin-top: 10px
+	width: 600px;
 }
 .boxes {
 	text-align: center;
