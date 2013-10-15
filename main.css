@@ -131,4 +131,6 @@ body {
 	font-size: 12px;
 	font-family: "Arial";
 }
-
+.productname sup {
+	display: inline-block;
+}
